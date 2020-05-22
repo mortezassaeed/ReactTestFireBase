@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactTestFireBase/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactTestFireBase/static/js/main.f747db3f.chunk.js",
+    "main.js.map": "/ReactTestFireBase/static/js/main.f747db3f.chunk.js.map",
+    "runtime-main.js": "/ReactTestFireBase/static/js/runtime-main.ca24a198.js",
+    "runtime-main.js.map": "/ReactTestFireBase/static/js/runtime-main.ca24a198.js.map",
+    "static/js/2.e75b4556.chunk.js": "/ReactTestFireBase/static/js/2.e75b4556.chunk.js",
+    "static/js/2.e75b4556.chunk.js.map": "/ReactTestFireBase/static/js/2.e75b4556.chunk.js.map",
+    "index.html": "/ReactTestFireBase/index.html",
+    "precache-manifest.59fdfa45bdb649103add0c8e49767c0b.js": "/ReactTestFireBase/precache-manifest.59fdfa45bdb649103add0c8e49767c0b.js",
+    "service-worker.js": "/ReactTestFireBase/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactTestFireBase/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e75b4556.chunk.js.LICENSE.txt": "/ReactTestFireBase/static/js/2.e75b4556.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactTestFireBase/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca24a198.js",
+    "static/js/2.e75b4556.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f747db3f.chunk.js"
+  ]
+}
